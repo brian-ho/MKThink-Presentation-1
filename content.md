@@ -51,7 +51,7 @@ An exercise in imagining an intuitive (as possible) "search" across non-spatial 
 Note: (adobe UXD)
 
 
-###Adobe UXD
+###Adobe XD
 ![XD logo](images/xd.jpg)
 
 (N.B. it's currently free)
@@ -212,4 +212,4 @@ Note: (galapagos, solving + learning)
 
 
 ##Fin
-Thanks for listening!
+Thanks for listening! Slides available at [bit.ly/bho_viz_talk](http://bit.ly/bho_viz_talk).

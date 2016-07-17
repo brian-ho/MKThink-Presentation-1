@@ -87,7 +87,7 @@ Note: (grasshoper)
 
 ###Rhino + Grasshopper
 <img class='fragment' src='images/rhino.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
 <img class='fragment' src='images/grasshopper.png'></img>
 
 <p class='fragment'>An imperative/algorithmic visual programming language ... for geometry!</p>
@@ -189,9 +189,9 @@ Note: (galapagos, solving + learning)
 
 ###GIS and APIs
 <img class='fragment' src='images/gmaps.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;
 <img class='fragment' src='images/qgis.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;
 <img class='fragment' src='images/sfopendata.png'></img>
 
 <p class='fragment'>Pulling GPS coordinates from the Google Places API into Grasshopper + importing GIS shapefiles from [SF OpenData](https://data.sfgov.org).</p>
@@ -215,4 +215,8 @@ Note: (galapagos, solving + learning)
 
 
 ##Fin
-Thanks for listening! Slides available at [bit.ly/bho_viz_talk](http://bit.ly/bho_viz_talk).
+Thanks for listening! Slides online at [bit.ly/bho_viz_talk](http://bit.ly/bho_viz_talk).
+
+
+
+<a href="http://brian-ho.github.io/vr-01" data-preview-link>Testing ...</a> 

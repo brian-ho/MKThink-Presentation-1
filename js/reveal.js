@@ -39,7 +39,7 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 1440,
+			width: 1400,
 			height: 900,
 
 			// Factor of the display size that should remain empty around the content
@@ -141,17 +141,17 @@
 			transitionSpeed: 'default', // default/fast/slow
 
 			// Transition style for full page slide backgrounds
-			backgroundTransition: 'convex', // none/fade/slide/convex/concave/zoom
+			backgroundTransition: 'concaves', // none/fade/slide/convex/concave/zoom
 
 			// Parallax background image
-			parallaxBackgroundImage: 'images/background2.tif', // CSS syntax, e.g. "a.jpg"
+			parallaxBackgroundImage: 'images/background3.tif', // CSS syntax, e.g. "a.jpg"
 
 			// Parallax background size
-			parallaxBackgroundSize: '2700px 900px', // CSS syntax, e.g. "3000px 2000px"
+			parallaxBackgroundSize: '3000px 1200px', // CSS syntax, e.g. "3000px 2000px"
 
 			// Amount of pixels to move the parallax background per slide step
 			parallaxBackgroundHorizontal: 300,
-			parallaxBackgroundVertical: 0,
+			parallaxBackgroundVertical: 25,
 
 			// Number of slides away from the current that are visible
 			viewDistance: 3,

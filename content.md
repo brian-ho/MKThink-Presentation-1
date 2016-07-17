@@ -52,7 +52,7 @@ Note: (adobe UXD)
 
 
 ###Adobe UXD
-![XD logo](images/xd.jpg)
+![XD logo](images/XD.jpg)
 
 (N.B. it's currently free)
 

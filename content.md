@@ -1,6 +1,8 @@
 #Visualization @ MKThink
 
 Brian Ho&ensp;//&ensp;works in progress&ensp;//&ensp;summer fellowship 2016
+
+2016.07.18
 Note: independent research on VR; w/ Shahidah on DGG; w/ Jessie + RH1 on 4D. All will be presented next few weeks. instead thought to share a look behind the scenes: not only what, but why and how! hopefully get feedback for me, and  something sticks.
 
 
@@ -13,7 +15,7 @@ Note: as an aside, content being kept in a running blog!
 
 
 <h6>storage</h6>
-###How can we use data?
+###How can data make change?
 Note: struggled to come up with how to structure. possibly because visualization doesn't really cover it: too passive, static, quantitative. I'm trying to work between the built environment - data - people. MKthink is a perfect lab: architects, data analysts, designers, developers, engineers, planners, strategists (in no order) under one roof. can I make things visual/manifest in a way that unites these disciplines?
 
 
@@ -22,14 +24,15 @@ Note: struggled to come up with how to structure. possibly because visualization
 
 
 <h6>business</h6>
-###How can architects expand their scope of practice?
+###How can architecture expand its scope of practice?
 
 
 <h6>update</h6>
-###How can we design with/for/against the next and the new?
+###How can we design with/for/against the new and the next?
 
 
-##A presentation in three acts ...
+<p><h3 class='fragment'>I don't know.</h3></p>
+<p><h3 class='fragment'>Instead, a presentation in three acts ....</h3></p>
 
 
 <p><h3 class='fragment'>1. Interface</h3></p>

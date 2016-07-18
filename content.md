@@ -218,7 +218,3 @@ Note: (galapagos, solving + learning)
 
 ##Fin
 Thanks for listening! Slides online at [bit.ly/bho_viz_talk](http://bit.ly/bho_viz_talk).
-
-
-
-<a href="http://brian-ho.github.io/vr-01" data-preview-link>Testing ...</a>

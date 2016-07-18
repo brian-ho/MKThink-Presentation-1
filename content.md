@@ -3,7 +3,7 @@
 brian ho&ensp;//&ensp;works in progress&ensp;//&ensp;summer fellowship 2016
 
 2016.07.18
-Note: independent VR; Shahidah - DGG; Jessie+RH1 - 4D. All will be presented soon. instead thought to share behind the scenes: why and how! hopefully get feedback, and  something sticks.
+Note: independent VR; Shahidah - DGG; Jessie+RH1 - 4D. All will be presented soon. instead thought to share behind the scenes: why and how! hopefully get feedback, and  something sticks. Think of these as B-sides, experiments, explorations.
 
 
 ###the Tumblr

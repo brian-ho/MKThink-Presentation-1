@@ -1,7 +1,9 @@
 #Visualization @ MKThink
 
-Brian Ho&ensp;//&ensp;works in progress&ensp;//&ensp;summer fellowship 2016
-Note: independent research on VR; w/ Shahidah on DGG; w/ Jessie + RH1 on 4D. All will be presented next few weeks. instead thought to share a look behind the scenes: not only what, but why and how! hopefully get feedback for me, and  something sticks.
+brian ho&ensp;//&ensp;works in progress&ensp;//&ensp;summer fellowship 2016
+
+2016.07.18
+Note: independent VR; Shahidah - DGG; Jessie+RH1 - 4D. All will be presented soon. instead thought to share behind the scenes: why and how! hopefully get feedback, and  something sticks. Think of these as B-sides, experiments, explorations.
 
 
 ###the Tumblr
@@ -13,8 +15,8 @@ Note: as an aside, content being kept in a running blog!
 
 
 <h6>storage</h6>
-###How can we use data?
-Note: struggled to come up with how to structure. possibly because visualization doesn't really cover it: too passive, static, quantitative. I'm trying to work between the built environment - data - people. MKthink is a perfect lab: architects, data analysts, designers, developers, engineers, planners, strategists (in no order) under one roof. can I make things visual/manifest in a way that unites these disciplines?
+###How can data make change?
+Note: struggled to come up with how to frame. visualization doesn't work: too passive, static, quantitative. I want to  to work between the built environment + data + people. MKthink: architects, data analysts, designers, developers, engineers, planners, strategists (in no order) together. can I make things visual/manifest that unites these disciplines? so some questions.
 
 
 <h6>map</h6>
@@ -22,14 +24,15 @@ Note: struggled to come up with how to structure. possibly because visualization
 
 
 <h6>business</h6>
-###How can architects expand their scope of practice?
+###How can architecture expand its scope of practice?
 
 
 <h6>update</h6>
-###How can we design with/for/against the next and the new?
+###How can we design with/for/against the new and the next?
 
 
-##A presentation in three acts ...
+<p><h3 class='fragment'>I don't know.</h3></p>
+<p><h3 class='fragment'>Instead, a presentation in three acts ....</h3></p>
 
 
 <p><h3 class='fragment'>1. Interface</h3></p>
@@ -48,29 +51,29 @@ Note: the front-end.
 ![UI gif](images/4d ui.gif)
 
 An exercise in imagining an intuitive (as possible) "search" across non-spatial data.
-Note: (adobe UXD)
+Note: Think of google maps. Define the next "maps."
 
 
-###Adobe UXD
+###Adobe XD
 ![XD logo](images/xd.jpg)
 
 (N.B. it's currently free)
 
-Note: (adobe UXD)
+Note: Great quick prototyping tool for wireframes.
 
 
 ###Horizon chart
 ![full chart](images/horizon full.png)
 
 Trying to find ways to show lots of time-series data as a meaningful aggregate.
-Note: (grasshoper)
+Note: Came out of RH1 work ... I didn't invent the form.
 
 
 ###Horizon chart, closer
 ![full chart](images/horizon zoom.png)
 
 You can read both the details of individual series, as well as trends across nearby series.
-Note: (grasshoper)
+Note: Trends and individuals.
 
 
 ###Horizon chart, even closer
@@ -79,28 +82,30 @@ Note: (grasshoper)
 Preserves the resolution of information, while increasing vertical compression.
 
 There's a [d3.js version](http://bl.ocks.org/mbostock/1483226) waiting to be made ...
-Note: (grasshoper)
+Note: Make big data a little smaller.
 
 
 ###Rhino + Grasshopper
 <img class='fragment' src='images/rhino.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
 <img class='fragment' src='images/grasshopper.png'></img>
 
 <p class='fragment'>An imperative/algorithmic visual programming language ... for geometry!</p>
+Note: I'm a huge fan!
 
 
 ###What it looks like:
 ![canvas](images/gh canvas.png)
 
 A mess, basically.
+Note: Spaghetti monster.
 
 
 ###What it looks like, closer:
 ![primitives](images/gh primitives.png)
 
 Data in, data out. Simple! And extensible.
-
+Note: Each component is a little function.
 
 
 
@@ -113,7 +118,7 @@ Note: making things that help make other things.
 ![strategy resize](images/strategy2d_resize.gif)
 
 Maybe interaction can help a client understand trade-offs?
-Note: 3D not so hot. A-frame?
+Note:
 
 
 ###Interactive strategy tool
@@ -186,9 +191,9 @@ Note: (galapagos, solving + learning)
 
 ###GIS and APIs
 <img class='fragment' src='images/gmaps.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;
 <img class='fragment' src='images/qgis.png'></img>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;
 <img class='fragment' src='images/sfopendata.png'></img>
 
 <p class='fragment'>Pulling GPS coordinates from the Google Places API into Grasshopper + importing GIS shapefiles from [SF OpenData](https://data.sfgov.org).</p>
@@ -212,4 +217,4 @@ Note: (galapagos, solving + learning)
 
 
 ##Fin
-Thanks for listening!
+Thanks for listening! Slides online at [bit.ly/bho_viz_talk](http://bit.ly/bho_viz_talk).
